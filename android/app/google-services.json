@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058303797741",
+    "project_id": "fir-notifications-c3211",
+    "storage_bucket": "fir-notifications-c3211.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058303797741:android:f824035092dbd9b89a1fe4",
+        "android_client_info": {
+          "package_name": "com.akaza.firebasenotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQQiC_3e7w0DNIcEamd40rf0-3vSHH0aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
